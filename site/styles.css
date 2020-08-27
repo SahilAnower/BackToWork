@@ -1,0 +1,46 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+#header-nav{
+	background-color: #f6b319;
+	border: 0;
+	border-radius: 0;
+}
+#logo-image{
+	background: url('https://d1csarkz8obe9u.cloudfront.net/posterpreviews/diner-restaurant-logo-design-template-0899ae0c7e72cded1c0abc4fe2d76ae4_screen.jpg?ts=1561476509') no-repeat;
+	background-position: center;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0px;
+}
+/*.navbar-brand{
+	padding-top: 25px;
+}*/
+.navbar-brand h1{
+	font-family: 'Lora', serif;
+	font-weight: bold;
+	font-size: 1.5em;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #5573ce;
+	text-transform: uppercase;
+	line-height: .75;
+	text-shadow: 1px 1px 1px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+.navbar-brand p{
+	text-transform: uppercase;
+	font-size: .7em;
+	color: #000;
+}
+.navbar-brand p span{
+	vertical-align: center;
+}
+.navbar-toggler { 
+	margin: 0 auto;
+}
